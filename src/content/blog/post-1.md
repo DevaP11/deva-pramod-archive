@@ -140,19 +140,19 @@ to be in in the present day. RAY speaks over all this.*
 
 ### **5.1.1 *Death and the Miser* by Jan Provoost**
 
-![image-1 (1).png](/image-1_(1).png)
+![death-and-the-miser.png](/death-and-the-miser.png)
 
 *a skeletal death comes to collect his due*
 
 ### 5.1.2 *Judgement Of Cambyses* by Gerard David
 
-![Gerard_David_-_The_Judgment_of_Cambyses,_panel_2_-_The_shedding_of_the_corrupt_judge_Sisamnes (1).jpg](/Gerard_David_-_The_Judgment_of_Cambyses_panel_2_-_The_shedding_of_the_corrupt_judge_Sisamnes_(1).jpg)
+![judgement-of-cambyses.jpg](/judgement-of-cambyses.jpg)
 
 Depicting the flaying of a corrupt judge, this work serves as a moral allegory on guilt and justice, illustrating the severe consequences of sin and corruption as a form of earthly purgation.
 
 ### 5.1.3 *The last judgement* by Hieronymus Bosch
 
-![Screenshot 2024-11-28 at 1.36.50 AM.png](/Screenshot_2024-11-28_at_1.36.50_AM.png)
+![last-judegement.png](/last-judegement.png)
 
 This triptych portrays the eternal division of souls, with vivid imagery of hell and paradise emphasising the torment of guilt and the possibility of purgatory for the redemption of sins before divine judgment.
 
