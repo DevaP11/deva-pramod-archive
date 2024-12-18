@@ -2,5 +2,7 @@
 title: About
 seo:
   title: About Me
-  description:
+  description: Test Content Test Content
 ---
+
+Test Content
