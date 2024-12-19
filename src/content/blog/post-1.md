@@ -1,7 +1,7 @@
 ---
 title: "Moral Cartographies in Dialogue : A Comprehensive Exploration of ‘In Bruges’"
 excerpt: In the ever-evolving landscape of content management systems (CMS), a new player has been gaining significant traction - the headless CMS.
-publishDate: 'Nov 14 2023'
+publishDate: 'Nov 28 2024'
 tags:
   - 'blog'
 seo:
@@ -9,8 +9,6 @@ seo:
     src: '/post-10.jpg'
     alt: Light straight lines
 ---
-
-Created: November 28, 2024 1:57 AM
 
 ## Preface: Navigating the Philosophical Landscape
 
