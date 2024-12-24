@@ -41,10 +41,6 @@ const siteConfig: SiteConfig = {
   title: `Deva's Archive`,
   subtitle: 'Projects, Notes, Insights & Much More',
   description: 'Deva Pramod Notes & Blogs',
-  image: {
-    src: '/dante-preview.jpg',
-    alt: 'Dante - Astro.js and Tailwind CSS theme'
-  },
   headerNavLinks: [
     {
       text: 'Home',
