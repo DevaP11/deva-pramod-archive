@@ -61,10 +61,6 @@ const siteConfig: SiteConfig = {
   ],
   footerNavLinks: [
     {
-      text: 'About',
-      href: '/about'
-    },
-    {
       text: 'Contact',
       href: '/contact'
     },
@@ -76,16 +72,16 @@ const siteConfig: SiteConfig = {
   socialLinks: [
     {
       text: 'Instagram',
-      href: 'https://instagram.com/'
+      href: 'https://www.instagram.com/d.e.v.a_p/'
     },
     {
-      text: 'X/Twitter',
-      href: 'https://twitter.com/'
-    }
+      text: 'LinkedIn',
+      href: 'https://www.linkedin.com/in/deva-pramod-3200bb216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByYj6tkxTQreYl4qI4lplrA%3D%3D'
+    },
   ],
   hero: {
     title: 'Hi There !',
-    text: "I'm **Deva Pramod**, Backend developer, automotive enthusiast & essayist. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+    text: "I'm **Deva Pramod**, Developer, Automotive Enthusiast & Blogger. Feel free to explore my blogs or checkout some of my coding endeavours on <a href='https://github.com/DevaP11'>GitHub</a>.",
     actions: [
       {
         text: 'Get in Touch',
