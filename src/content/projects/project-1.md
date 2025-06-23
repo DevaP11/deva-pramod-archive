@@ -2,11 +2,13 @@
 title: 'Running SQL on Dynamo DB through Athena'
 description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
 publishDate: 'Jan 02 2024'
+isFeatured: true
 seo:
   image:
     src: '/athena-sql.png'
     alt: Project preview
 ---
+
 ## Introduction
 Athena is a service that allows you to run SQL queries on different data sources like Amazon S3. However Athena doesn't support Dynamo DB as a data source. In order to circumvent this issue, we will use some of the glue services and store data in parquet format in S3.
 
